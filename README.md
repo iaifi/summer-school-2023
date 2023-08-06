@@ -7,7 +7,6 @@
 
 ### Tutorial
 (Author: Anindita Maiti)
-Order of tutorials
 - Tutorial 1: KL Divergence
 - Tutorial 2: Neural ODEs
 
