@@ -8,7 +8,7 @@
 ### Tutorial
 (Author: Anindita Maiti)
 - Tutorial 1: KL Divergence
-- Tutorial 2: Neural ODEs
+- Tutorial 2: Neural ODEs (resource - https://arxiv.org/pdf/1806.07366.pdf)
 
 
 ## 2. Statistical Physics and Geometry of Overparameterization
