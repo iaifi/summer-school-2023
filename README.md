@@ -9,6 +9,7 @@
 (Author: Anindita Maiti)
 - Tutorial 1: KL Divergence
 - Tutorial 2: Neural ODEs (resource - [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) by Chen et. al.)
+- Tutorial 3: Normalizing Flows (resource - [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) by Rezende et. al.)
 
 
 ## 2. Statistical Physics and Geometry of Overparameterization
