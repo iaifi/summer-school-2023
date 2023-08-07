@@ -26,7 +26,7 @@ Reference papers for tutorials
 
 ### Tutorial
 (Author: Di Luo)
-
+[Overparameterization code](poly_fit-checkpoint.ipynb)
 
 ## 3. Generative modeling, with connection to and applications in physics
 (Author: Siddharth Mishra-Sharma)
