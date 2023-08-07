@@ -53,7 +53,10 @@ Code:
 
 ### Tutorial
 (Author: Carol Cuesta-Lazaro)
-
+- [Tutorial's repo](https://github.com/florpi/summer_school_generative)
+- [Tutorial 1: Understanding Variational Inference with jax](https://github.com/florpi/summer_school_generative/blob/main/1_variational_inference_with_jax.ipynb)
+- [Tutorial 2: Latent variable models for galaxy images with VAEs](https://github.com/florpi/summer_school_generative/blob/main/2_variational_autoencoders.ipynb)
+- [Tutorial 3: Diffusion models for particle physics](https://github.com/florpi/summer_school_generative/blob/main/2_variational_autoencoders.ipynb)
 
 ## 4. Astrostatistics
 (Author: Joshua Speagle)
