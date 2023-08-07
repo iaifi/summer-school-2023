@@ -29,11 +29,11 @@ Reference papers for tutorials
 
 [Overparameterization code](poly_fit-checkpoint.ipynb)
 
-[Tutorial 1.1](Tutorial 1.1 overparameterization.ipynb)
+Tutorial 1.1 overparameterization.ipynb
 
-[Tutorial 1.2](Tutorial 1.2 linreg_diabetes.ipynb)
+Tutorial 1.2 linreg_diabetes.ipynb
 
-[Tutorial 1.3](Tutorial 1.3 linreg_ising.ipnyb)
+Tutorial 1.3 linreg_ising.ipnyb
 
 ## 3. Generative modeling, with connection to and applications in physics
 (Author: Siddharth Mishra-Sharma)
