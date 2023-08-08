@@ -41,7 +41,7 @@ Tutorial 1.3 linreg_ising.ipnyb
 ## 3. Generative modeling, with connection to and applications in physics
 (Author: Siddharth Mishra-Sharma)
 
-- Preliminary slides: https://smsharma.github.io/iaifi-summer-school-2023/
+- Slides: https://smsharma.github.io/iaifi-summer-school-2023/
 
 ### Useful materials
 
