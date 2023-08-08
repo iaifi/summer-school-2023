@@ -9,9 +9,9 @@
 (Author: Anindita Maiti)
 
 Outline of tutorials
-- Tutorial 1: KL Divergence
-- Tutorial 2: Neural ODEs 
-- Tutorial 3: Normalizing Flows for Scalar Field Theory (to be updated)
+- Tutorial 3.1 KL Divergence
+- Tutorial 3.2 Neural ODEs 
+- Tutorial 3.2 Normalizing Flows for Scalar Field Theory (to be updated)
 
 Reference papers and book chapters for tutorials
 - [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) by Chen et. al.
