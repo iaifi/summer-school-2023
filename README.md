@@ -11,12 +11,16 @@
 Outline of tutorials
 - Tutorial 1: KL Divergence
 - Tutorial 2: Neural ODEs 
-- Tutorial 3: Normalizing Flows
+- Tutorial 3: Normalizing Flows for Scalar Field Theory (to be updated)
 
-Reference papers for tutorials
+Reference papers and book chapters for tutorials
 - [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) by Chen et. al.
 - [Introduction to Normalizing Flows for Lattice Field Theory](https://arxiv.org/abs/2101.08176) by Boyda et. al.
+- [Learning Lattice Quantum Field Theories with Equivariant Continuous Flows](https://arxiv.org/abs/2207.00283) by Gerdes et. al. 
 - [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) by Rezende et. al.
+- Quantum Field Theory, Mark Srednicki, Cembridge University Press, Chapter 9.
+- Renormalization and effective field theory, Kevin Costello, Chapters 1, 2.1, 2.2.
+- Quantum Field on a Lattice, Istvan Montvay and Gernot M&#252nster, Cambridge University Press, Chapters 1, 2.
 
 
 ## 2. Statistical Physics and Geometry of Overparameterization
