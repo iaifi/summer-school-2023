@@ -18,9 +18,8 @@ Reference papers and book chapters for tutorials
 - [Introduction to Normalizing Flows for Lattice Field Theory](https://arxiv.org/abs/2101.08176) by Boyda et. al.
 - [Learning Lattice Quantum Field Theories with Equivariant Continuous Flows](https://arxiv.org/abs/2207.00283) by Gerdes et. al. 
 - [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) by Rezende et. al.
-- Quantum Field Theory, Mark Srednicki, Cembridge University Press, Chapter 9.
-- Renormalization and effective field theory, Kevin Costello, Chapters 1, 2.1, 2.2.
-- Quantum Field on a Lattice, Istvan Montvay and Gernot M&#252nster, Cambridge University Press, Chapters 1, 2.
+- [Quantum Field Theory](https://www.cambridge.org/highereducation/books/quantum-field-theory/718DD037728FB3745F48A40A6D9A8A1C#overview), Mark Srednicki, Cembridge University Press, Chapter 9.
+- [Quantum Field on a Lattice](https://www.cambridge.org/core/books/quantum-fields-on-a-lattice/4401A88CD232B0AEF1409BF6B260883A), Istvan Montvay and Gernot Munster, Cambridge University Press, Chapters 1, 2.
 
 
 ## 2. Statistical Physics and Geometry of Overparameterization
