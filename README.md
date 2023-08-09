@@ -9,9 +9,9 @@
 (Author: Anindita Maiti)
 
 Outline of tutorials
-- Tutorial 3.1 KL Divergence
-- Tutorial 3.2 Neural ODEs 
-- Tutorial 3.2 Normalizing Flows for Scalar Field Theory (to be updated)
+- [Tutorial 3.1 KL Divergence](https://github.com/iaifi/summer-school-2023/blob/main/Tutorial%203.1%20KL_divergence.ipynb) ([Solution](https://github.com/iaifi/summer-school-2023/blob/main/Tutorial%203.1%20Solution_KL_divergence.ipynb))
+- [Tutorial 3.2 Neural ODEs](https://github.com/iaifi/summer-school-2023/blob/main/Tutorial%203.2%20Neural_ODE.ipynb) ([Solution](https://github.com/iaifi/summer-school-2023/blob/main/Tutorial%203.2%20Solution_Neural_ODE.ipynb))
+- [Tutorial 3.3 Normalizing Flows for Scalar Field Theory](https://github.com/iaifi/summer-school-2023/blob/main/Tutorial%203.3%20Normalizing_Flows_2D_Scalar_Field_Theory.ipynb) (Solution will be provided during actual tutorial session.)
 
 Reference papers and book chapters for tutorials
 - [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) by Chen et. al.
