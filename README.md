@@ -68,7 +68,10 @@ Code:
 
 ### Tutorial
 (Author: Alex Gagliano)
-
+- [Tutorial's repo](https://github.com/alexandergagliano/InterpretabilityDemos)
+- [Tutorial 1: SHAP Values: Origins and Applications](https://github.com/alexandergagliano/InterpretabilityDemos/blob/main/Tutorial%204.1%20Shapley.ipynb)
+- [Tutorial 2: Counterfactual Explanations](https://github.com/alexandergagliano/InterpretabilityDemos/blob/main/Tutorial%204.2%20Counterfactual.ipynb)
+- [Tutorial 3: Gradient-Based Saliency Maps for Neural Network Interpretability](https://github.com/alexandergagliano/InterpretabilityDemos/blob/main/Tutorial%204.3%20PixelAttribution.ipynb)
 
 ## 5. Incorporating Symmetry into Deep Dynamics Models
 (Author: Robin Walters)
