@@ -76,4 +76,5 @@ Code:
 ### Useful materials
 
 ### Tutorial
-(Author: Ray Wang)
+(Author: Rui Wang)
+- [Tutorial Symmetry and Equivariant Models](https://github.com/iaifi/summer-school-2023/blob/main/Tutorial_Symmetry.ipynb) 
