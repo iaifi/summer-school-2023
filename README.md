@@ -63,7 +63,8 @@ Code:
 
 ## 4. Astrostatistics
 (Author: Joshua Speagle)
-
+- Slides: https://github.com/alexandergagliano/InterpretabilityDemos/blob/main/JoshuaSpeagle_iaifi_bayesml_08-10-2023.pdf
+  
 ### Useful materials
 Shapley Values:
 - [A Unified Approach to Interpreting Model Predictions](https://github.com/shap/shap) (Lundberg & Lee, 2017)
