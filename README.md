@@ -65,7 +65,22 @@ Code:
 (Author: Joshua Speagle)
 
 ### Useful materials
+Shapley Values:
+- [A Unified Approach to Interpreting Model Predictions](https://github.com/shap/shap) (Lundberg & Lee, 2017)
+- [Explaining Predictive Uncertainty with Information Theoretic Shapley Values](https://arxiv.org/pdf/2306.05724.pdf) (Watson et al., 2023)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/), Christoph Molnar
 
+Counterfactuals:
+- [Alibi Explain: Algorithms for Explaining Machine Learning Models](https://github.com/SeldonIO/alibi) (Klaise, Van Looveren, Vacanti, & Alexandru Coc, 2017)
+- [Machine Learning Tutorials](https://github.com/MichelleLochner/ml-tutorials/tree/main), Michelle Lochner
+- [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/abs/1907.02584), (Van Looveren & Klaise, 2019)
+
+Saliency Maps:
+- [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034), Simonyan et al., 2013 - implemented [here](https://github.com/sunnynevarekar/pytorch-saliency-maps/blob/master/Saliency_maps_in_pytorch.ipynb).
+- [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901), Zeiler et al. (2013) 
+- [Striving for Simplicity - The All Convolutional Net](http://arxiv.org/abs/1412.6806), Springenberg et al. (2015)
+- [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825), Smilkov et al. (2017)
+  
 ### Tutorial
 (Author: Alex Gagliano)
 - [Tutorial's repo](https://github.com/alexandergagliano/InterpretabilityDemos)
